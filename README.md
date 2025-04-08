@@ -1,71 +1,71 @@
 # 🌟 Senior Full Stack Engineer || Frontend, Backend | Blockchain | AI | Crypto Trading | Bot
 
-## 📦 Frontend Development
-- React.js
-- Next.js
-- GraphQL
-- Tailwind CSS
-- Material UI
-- Bootstrap
+## ✅ Frontend Development:
+🔹 React.js  
+🔹 Next.js  
+🔹 GraphQL  
+🔹 Tailwind CSS  
+🔹 Material UI  
+🔹 Bootstrap  
 
-## 📦 Backend Development
-- Node.js
-- Express
-- Nest.js
-- PHP
-- Python
-- Go
-- Rust
+## ✅ Backend Development:
+🔹 Node.js  
+🔹 Express  
+🔹 Nest.js  
+🔹 PHP  
+🔹 Python  
+🔹 Go  
+🔹 Rust  
 
-## 📦 Blockchain Development
-- Solana
-- EVM
-- NFT Marketplace
-- DEX
-- Smart Contract
-- DApp
-- Crypto Wallet
+## ✅ Database:
+🔹 MongoDB  
+🔹 MySQL  
+🔹 PostgreSQL  
 
-## 📦 AI Development
-- OpenAI API
-- ChatBot
-- ChatGPT
-- AI Agent
-- LLM
-- Web Scraping
-- Data Scraping
-- AI Automation
+## ✅ Cloud Services:
+🔹 AWS  
+🔹 Azure  
+🔹 Google Cloud  
+🔹 Digital Ocean  
+🔹 Vercel  
+🔹 Cloudflare  
 
-## 📦 Bot Development
-- AI Agent bot
-- Visa bot
-- Betting bot
-- Booking bot
-- Tap-to-earn mini app
-- Airdrop mini app
-- Game mini app
+## ✅ AI Development:
+🔹 OpenAI API  
+🔹 ChatBot  
+🔹 ChatGPT  
+🔹 AI Agent  
+🔹 LLM  
+🔹 Web Scraping  
+🔹 Data Scraping  
+🔹 AI Automation  
 
-## 📦 Crypto Trading
-- Sniper bot
-- Copy trading bot
-- Arbitrage bot
-- Token launch bot
-- Volume bot
-- Bundle bot
-- Wallet tracking & analysis bot
-- Sandwich bot
-- Flash loan bot
-- AI Agent trading bot
+## ✅ Bot Development:
+🔹 AI Agent bot  
+🔹 Visa bot  
+🔹 Betting bot  
+🔹 Booking bot  
+🔹 Tap-to-earn mini app  
+🔹 Airdrop mini app  
+🔹 Game mini app  
 
-## 📦 Database
-- MongoDB
-- MySQL
-- PostgreSQL
+## ✅ Blockchain Development:
+🔹 Solana  
+🔹 EVM  
+🔹 NFT Marketplace  
+🔹 DEX  
+🔹 Smart Contract  
+🔹 DApp  
+🔹 Crypto Wallet  
 
-## 📦 Cloud Services
-- AWS
-- Azure
-- Google Cloud
-- Digital Ocean
-- Vercel
-- Cloudflare
+## ✅ Crypto Trading:
+🔹 Sniper bot  
+🔹 Copy trading bot  
+🔹 Arbitrage bot  
+🔹 Token launch bot  
+🔹 Volume bot  
+🔹 Bundle bot  
+🔹 Wallet tracking & analysis bot  
+🔹 Sandwich bot  
+🔹 Flash loan bot  
+🔹 AI Agent trading bot  
